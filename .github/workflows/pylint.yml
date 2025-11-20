@@ -1,4 +1,4 @@
-name: Pylint
+name: Check python code with pylint
 
 on: [push]
 
