@@ -1,7 +1,7 @@
 ** Usage
 * python3 -m venv .venv
-* pip install -r requirements.txt
 * source .ven/bin/activate
+* pip install -r requirements.txt
 * python main.py
 * Enter passphrase for the GPG key
 
