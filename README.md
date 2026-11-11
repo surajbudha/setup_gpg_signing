@@ -6,3 +6,9 @@
 * Enter passphrase for the GPG key
 
 It will generate the private and the public key
+
+Enable GIT signing
+git config --global commit.gpgsign true
+
+Dependency Packages:
+pinenty 
