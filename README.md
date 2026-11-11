@@ -7,8 +7,8 @@
 
 It will generate the private and the public key
 
-Enable GIT signing
-git config --global commit.gpgsign true
+** Enable GIT signing
+* git config --global commit.gpgsign true
 
-Dependency Packages:
-pinenty 
+** Dependency Packages:
+* pinenty 
